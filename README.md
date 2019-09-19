@@ -5,7 +5,7 @@ Repositorio del Meetup enfocado en Android.
 
 ### Material
 | Expositor | Título | Tipo | Diapositivas | Código fuente |
-| ------------- |:-------------| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | Gustavo Lizárraga | DX/Proguard vs D8/R8 | Talk | [Diapositivas]() | |
 | Melvin Callisaya | Enviar y recibir notificaciones en Android con FCM | CodeLab | [Diapositivas]() | https://github.com/matt2393/FCMRestExample | 
 | Angel Quino | Animaciones Flare en Flutter | Talk | [Diapositivas]() | |
