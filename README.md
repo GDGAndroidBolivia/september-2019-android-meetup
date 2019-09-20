@@ -4,11 +4,11 @@
 Repositorio del Meetup enfocado en Android.
 
 ### Material
-| Expositor | Título | Tipo | Diapositivas | Código fuente |
+| Expositor | Título | Tipo | Recursos | Código fuente |
 | :------------- |:-------------| :-----:| :-----:| :-----:|
-| Gustavo Lizárraga | DX/Proguard vs D8/R8 | Talk | [Diapositivas]() | |
-| Melvin Callisaya | Enviar y recibir notificaciones en Android con FCM | CodeLab | [Diapositivas]() | https://github.com/matt2393/FCMRestExample | 
-| Angel Quino | Animaciones Flare en Flutter | Talk | [Diapositivas]() | |
+| Gustavo Lizárraga | DX/Proguard vs D8/R8 | Talk | [Diapositivas](https://speakerdeck.com/lizarragadev/r8) | |
+| Melvin Callisaya | Enviar y recibir notificaciones en Android con FCM | CodeLab | [Diapositivas](https://drive.google.com/file/d/1nryXdbDIWFJ2eVYBiAI2gJPOIG4pRXQD/view?usp=sharing) | https://github.com/matt2393/FCMRestExample | 
+| Angel Quino | Animaciones Flare en Flutter | Talk | [Recursos](https://drive.google.com/file/d/1wqgPervxKqfPuitRFsGGhZ54-hsM76vo/view?usp=sharing) | |
 
 ### Ubicación
 Todos nuestros Meetups los llevamos a cabo en instalaciones de [Link Cowork](http://www.linkcowork.com.bo/), puedes visitar su página para conocer de sus servicios.
